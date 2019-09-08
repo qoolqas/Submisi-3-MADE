@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="rating">Peringkat</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="synopsis">Sinopsis</string>
+</resources>
